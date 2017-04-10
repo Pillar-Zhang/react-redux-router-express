@@ -19,6 +19,7 @@ module.exports = {
             'superagent'
         ]
     },
+    //test
     output: {
         path: path.resolve(__dirname, '../dist/client'),
         filename: '[name].js',
